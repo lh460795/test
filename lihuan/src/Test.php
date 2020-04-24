@@ -3,7 +3,7 @@
 namespace Hello;
 class Test
 {
-    public function test()
+    public static function test()
     {
         echo "测试composer包 ojbk";
     }
